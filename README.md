@@ -1,6 +1,6 @@
 #  Hi, I'm Miguel Bonilla! 👋
 
-## I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
+### I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
 
 ## 🛠️ Here are some of the tools and technologies I'm comfortable working with:
 
@@ -16,4 +16,4 @@
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-bonilla-4b7438285/) or email me at miguelbonilla1886@gmail.com
+###Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-bonilla-4b7438285/) or email me at miguelbonilla1886@gmail.com
