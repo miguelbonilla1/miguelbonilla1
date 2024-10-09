@@ -1,4 +1,4 @@
-##  Hi, I'm Miguel Bonilla! 👋
+#  Hi, I'm Miguel Bonilla! 👋
 
 ## I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
 
@@ -10,3 +10,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+
+
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-bonilla-4b7438285/) or email me at miguelbonilla1886@gmail.com
