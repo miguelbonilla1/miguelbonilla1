@@ -1,8 +1,8 @@
 ##  Hi, I'm Miguel Bonilla! 👋
 
-## I'm a web developer specializing in React, Node.js, and both frontend and backend technologies. Here are some of the tools and technologies I'm comfortable working with:
+## I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
 
-## 🛠️ Technologies and Tools
+## 🛠️ Here are some of the tools and technologies I'm comfortable working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
