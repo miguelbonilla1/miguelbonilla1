@@ -2,7 +2,7 @@
 
 ### I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
 
-## 🛠️ Here are some of the tools and technologies I'm comfortable working with:
+### 🛠️ Here are some of the tools and technologies I'm comfortable working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
@@ -16,4 +16,4 @@
 
 ## 📫 How to Reach Me
 
-###Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-bonilla-4b7438285/) or email me at miguelbonilla1886@gmail.com
+### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-bonilla-4b7438285/) or email me at miguelbonilla1886@gmail.com
