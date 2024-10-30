@@ -1,6 +1,6 @@
 #  Hi, I'm Miguel Bonilla! 👋
 
-### I'm a web developer specializing in React, Node.js, and both frontend and backend technologies.
+### I'm a web developer specializing in React and Node.js.
 
 ### 🛠️ Here are some of the tools and technologies I'm comfortable working with:
 
