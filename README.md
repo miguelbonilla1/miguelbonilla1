@@ -19,7 +19,7 @@ Full-Stack Software Developer building digital products and end-to-end solutions
 - ⚙️ **Backend & APIs:** Architecting RESTful endpoints, service integrations, and business logic using Node.js, NestJS, PHP, and Symfony[cite: 1].
 - 🗄️ **Data & Infrastructure:** Relational and non-relational database design, containerized environments with Docker, and clean Git workflows[cite: 1].
 - 🤖 **AI & Modern Tooling:** AI-assisted development, workflow automation, and integrating modern architectures (RAG, MCP)[cite: 1].
-- 🎓 **Education:** Degree in Internet of Things (IoT) at UNAMA (In Progress)[cite: 1].
+- 🎓 **Education:** Degree in Internet of Things (IoT) (In Progress)
 
 ---
 
