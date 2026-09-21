@@ -1,28 +1,14 @@
 
-# Hi there, I'm Miguel Bonilla! 👋
-
-<p align="left">
-  <a href="https://linkedin.com/in/miguel-bonilla-4b7438285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:miguelbonilla1886@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Boa%20Vista,%20Brazil-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
+# Hi there, I'm Miguel Bonilla! 👋     
 ---
-
 ### 🚀 About Me
-Full-Stack Software Developer building digital products and end-to-end solutions across **web, mobile, and backend platforms**[cite: 1]. Core focus:
-- 📱 **Web & Mobile Apps:** Building responsive interfaces and complete mobile experiences with React, Next.js, and React Native[cite: 1].
-- ⚙️ **Backend & APIs:** Architecting RESTful endpoints, service integrations, and business logic using Node.js, NestJS, PHP, and Symfony[cite: 1].
-- 🗄️ **Data & Infrastructure:** Relational and non-relational database design, containerized environments with Docker, and clean Git workflows[cite: 1].
-- 🤖 **AI & Modern Tooling:** AI-assisted development, workflow automation, and integrating modern architectures (RAG, MCP)[cite: 1].
+Full-Stack Software Developer building digital products and end-to-end solutions across **web, mobile, and backend platforms** Core focus:
+- 📱 **Web & Mobile Apps:** Building responsive interfaces and complete mobile experiences with React, Next.js, and React Native.
+- ⚙️ **Backend & APIs:** Architecting RESTful endpoints, service integrations, and business logic using Node.js, NestJS, PHP, and Symfony.
+- 🗄️ **Data & Infrastructure:** Relational and non-relational database design, containerized environments with Docker, and clean Git workflows.
+- 🤖 **AI & Modern Tooling:** AI-assisted development, workflow automation, and integrating modern architectures (RAG, MCP).
 - 🎓 **Education:** Degree in Internet of Things (IoT) (In Progress)
-
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 #### 🌐 Frontend & Mobile
@@ -52,9 +38,7 @@ Full-Stack Software Developer building digital products and end-to-end solutions
 ![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
-
 ### 🌐 Languages
 - **Spanish:** Native
 - **Portuguese:** Advanced
